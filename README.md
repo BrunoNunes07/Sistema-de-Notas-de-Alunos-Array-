@@ -40,4 +40,4 @@ Ter o **Python 3.10** ou superior instalado na sua máquina.
 ### Passo a passo
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+   git clone https://github.com/BrunoNunes07/Sistema-de-Notas-de-Alunos-Array-.git
